@@ -23,7 +23,7 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <h2>📌 Work Stats </h2>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?ignaciogomenuka=ignaciogomenuka&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignaciogomenuka&show_icons=true&theme=tokyonight)
 
 
 <hr/>
