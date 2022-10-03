@@ -27,7 +27,7 @@
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 
-<hr><hr><hr><hr><hr>
+<hr>
 
 <h2>📊 Stats</h2>
 
@@ -38,6 +38,10 @@
 
 <hr>
 
+<h2>Experience</h2>
+
+Actually working for Havas Argentina, with a Data Analyst role.
+Mixing Data Visualization, Extraction and curation with some code :)
 
 <!---
 ignaciogomenuka/ignaciogomenuka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
