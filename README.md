@@ -1,5 +1,6 @@
 <h1>👋 Hi, I’m @ignaciogomenuka </h1>
-<div>
+<hr>
+
 <h2>🛠 Actually working as Data Analyst</h2>
 
 
@@ -9,10 +10,8 @@
 - 🌎 From Buenos Aires, Argentina.
 - 📫 How to reach me: ignaciogomenuka@gmail.com
 
-  </div>
-<hr/>
+<hr>
 
-<div>
 
 <h2>🛠 Tools and Skils</h2>
 
@@ -27,9 +26,7 @@
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-</div>
-<div>
-  </div>
+<hr>
 
 <h2>📊 Stats</h2>
 
@@ -38,7 +35,7 @@
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ignaciogomenuka&theme=gruvbox&border_radius=4.5) -->
 
-</div>
+<hr>
 
 
 <!---
