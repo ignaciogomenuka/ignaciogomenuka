@@ -29,6 +29,7 @@
 
 </div>
 <div>
+  </div>
 
 <h2>📊 Stats</h2>
 
