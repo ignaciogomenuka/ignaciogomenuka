@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in web 3.0, Blockchain & Crypto
 - 🌱 I’m currently learning Python for automatization purposes
-- 💞️ I’m looking to collaborate on Web 3 projects
+- 💞️ I’m looking to collaborate on Web3 projects
 - 🌎 From Buenos Aires, Argentina.
 - 📫 How to reach me: ignaciogomenuka@gmail.com
 
