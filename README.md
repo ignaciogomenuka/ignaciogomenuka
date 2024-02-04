@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in web 3.0, Blockchain & Crypto
 - 🌱 I’m currently learning Python for automatization purposes
-- 💞️ I’m looking to collaborate on Web3 projects
+- 💞️ I’m looking to collaborate on Web3 and Data Science projects
 - 🌎 From Buenos Aires, Argentina.
 - 📫 How to reach me: ignaciogomenuka@gmail.com
 
@@ -19,7 +19,7 @@
 
 <h2>Experience</h2>
 
-Actually working for Havas Argentina, with a Data Analyst role.
+Working for Havas Argentina, with a Data Analyst role.
 Mixing Data Visualization, Extraction and curation with some code :)
 
 <hr>
