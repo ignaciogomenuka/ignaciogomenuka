@@ -26,8 +26,8 @@ Mixing Data Visualization, Extraction and curation with some code :)
 
 <h2>🛠 Tools and Skils</h2>
 
-<img align="left" alt="PowerBI" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png)" />
-<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/724px-R_logo.svg.png)" />
+<img align="left" alt="Power BI" width="30px" style="padding-right:10px;" src="https://commons.wikimedia.org/wiki/File:New_Power_BI_Logo.svg" />
+<img align="left" alt="R" width="30px" style="padding-right:10px;" src="hhttps://iconos8.es/icon/CLvQeiwFpit4/r-project" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
