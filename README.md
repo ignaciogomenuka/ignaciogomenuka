@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Python for automatization purposes
 - 💞️ I’m looking to collaborate on Web3 and Data Science projects
 - 🌎 From Buenos Aires, Argentina.
-- 📫 How to reach me: ignaciogomenuka@gmail.com
+- 📫 How to reach me: ignaciogomenuka@gmail.com or https://chona.framer.website
 
 - Currently looking for a Data Science position to learn and create cool stuff with Python.
 
