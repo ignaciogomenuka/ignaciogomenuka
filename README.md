@@ -19,10 +19,9 @@
   
 - Then I joined Matterscale Ventures, a private equity venture capital where I did competitor analysis and Portfolio analysis for startups all over LATAM.
 
--In the meantime, I co-founded Speezard a web3 incubator helping almost 50 startups to reach product market fit and validating their startup thesis, we together growth a +1000 members community focused on web3 technology, 
- AI and Entrepreneurship.
+- In the meantime, I co-founded Speezard a web3 incubator helping almost 50 startups to reach product market fit and validating their startup thesis, we together growth a +1000 members community focused on web3 technology, AI and Entrepreneurship.
 
--Recently, finished Le Wagon Bootcamp on Data Science, this bootcamp was over +400 hours and covered the most common libraries to working with Deeplearning algorithms.
+- Recently, finished Le Wagon Bootcamp on Data Science, this bootcamp was over +400 hours and covered the most common libraries to working with Deeplearning algorithms.
 
 <hr>
 
