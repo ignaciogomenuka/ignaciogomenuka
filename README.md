@@ -1,26 +1,24 @@
 <h1>👋 Hi, I’m Ignacio Muñoz Gomeñuka </h1>
 <hr>
 
-<h2>🛠 Actually working as Data Analyst</h2>
+<h2>🛠 Actually working as Data Scientist</h2>
 
 
-- 👀 I’m interested in web 3.0, Blockchain & Crypto
+- 👀 I’m interested in web 3.0, Blockchain & Machine Learning
 - 🌱 I’m currently learning Python for automatization purposes
 - 💞️ I’m looking to collaborate on Web3 and Data Science projects
 - 🌎 From Buenos Aires, Argentina.
 - 📫 How to reach me: ignaciogomenuka@gmail.com
 
-<hr>
-<h2>📊 Stats</h2>
-
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignaciogomenuka&show_icons=true&theme=tokyonight)
+- Currently looking for a Data Science position to learn and create cool stuff with Python.
 
 <hr>
-
 <h2>Experience</h2>
 
-Working for Havas Argentina, with a Data Analyst role.
-Mixing Data Visualization, Extraction and curation with some code :)
+I worked for Havas Media Group as a Data Analyst working with PowerBI, SQL and some Python for automatization.
+Then I joined Matterscale Ventures, a private equity venture capital where I did competitor analysis and Portfolio analysis for startups all over LATAM.
+In the meantime, I co-founded Speezard a web3 incubator helping almost 50 startups to reach product market fit and validating their startup thesis, we together growth a +1000 members community focused on web3 technology, AI and Entrepreneurship.
+Recently, finished Le Wagon Bootcamp on Data Science, this bootcamp was over +400 hours and covered the most common libraries to working with Deeplearning algorithms.
 
 <hr>
 
