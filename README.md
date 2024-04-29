@@ -24,6 +24,9 @@
 - Recently, finished Le Wagon Bootcamp on Data Science, this bootcamp was over +400 hours and covered the most common libraries to working with Deeplearning algorithms.
 
 <hr>
+<h2>Skills</h2>
+
+<img src="/AAZG/AAZG/raw/main/Carruselffmepg.gif" alt="My Skills" title="My Skills" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 
 
