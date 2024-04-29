@@ -24,11 +24,14 @@
 - Recently, finished Le Wagon Bootcamp on Data Science, this bootcamp was over +400 hours and covered the most common libraries to working with Deeplearning algorithms.
 
 <hr>
+
 <h2>Skills</h2>
+<div dir="auto">
+  <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="/AAZG/AAZG/blob/main/Carruselffmepg.gif" data-target="animated-image.originalLink"><img src="/AAZG/AAZG/raw/main/Carruselffmepg.gif" alt="My Skills" title="My Skills" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/AAZG/AAZG/blob/main/Carruselffmepg.gif" target="_blank">
 
-<img src="/AAZG/AAZG/raw/main/Carruselffmepg.gif" alt="My Skills" title="My Skills" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-
-
+</div>
 
 <h2>🛠 Tools and Skils</h2>
 
