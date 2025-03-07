@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Ignacio Muñoz Gomeñuka </h1>
 <hr>
 
-<h2>🛠 Actually working as Data Scientist</h2>
+<h2>🛠 Actually working as Data Analyst</h2>
 
 
 - 👀 I’m interested in web 3.0, Blockchain & Machine Learning
