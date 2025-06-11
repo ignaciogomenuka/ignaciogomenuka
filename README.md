@@ -4,13 +4,12 @@
 <h2>🛠 Actually working as Data Analyst</h2>
 
 
-- 👀 I’m interested in web 3.0, Blockchain & Machine Learning
-- 🌱 I’m currently learning Python for automatization purposes
-- 💞️ I’m looking to collaborate on Web3 and Data Science projects
+- 🌱 I’m currently working with Python and exploring fintech
 - 🌎 From Buenos Aires, Argentina.
-- 📫 How to reach me: ignaciogomenuka@gmail.com or https://chona.framer.website
+- 📫 How to reach me: ignaciogomenuka@gmail.com
+  
 
-- Currently looking for a Data Science position to learn and create cool stuff with Python.
+- Currently working for a venture capital firm 
 
 <hr>
 <h2>Experience</h2>
