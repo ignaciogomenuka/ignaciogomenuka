@@ -9,7 +9,16 @@
 - 📫 How to reach me: ignaciogomenuka@gmail.com
   
 
-- Currently working for a venture capital firm 
+- Currently working for a venture capital firm
+
+- ## ✍️ Blog Update – June 2025
+
+I've just published a guide on how to pull marketing insights from Meta’s API directly into Google Sheets.  
+It includes menu integration, pagination handling, and dynamic data writing. 
+
+This is part of my current daily tech-stack to develop some automatizations  Apify + Appscripts + Instant Data Scraper + Pyhton + N8N + Google Sheets
+
+📎 Repo: [meta-marketing-api-google-sheets](https://github.com/ignaciogomenuka/meta-marketing-api-google-sheets)
 
 <hr>
 <h2>Experience</h2>
