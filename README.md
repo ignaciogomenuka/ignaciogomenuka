@@ -23,13 +23,11 @@ This is part of my current daily tech-stack to develop some automatizations  Api
 <hr>
 <h2>Experience</h2>
 
-- I worked for Havas Media Group as a Data Analyst working with PowerBI, SQL and some Python for automatization.
-  
-- Then I joined Matterscale Ventures, a private equity venture capital where I did competitor analysis and Portfolio analysis for startups all over LATAM.
+- Worked at **Havas Media Group** as a Data Analyst, leveraging Power BI, SQL, and Python to automate reporting and generate insights.
+- Joined **Matterscale Ventures**, a private equity venture capital firm, where I performed competitor and portfolio analysis for startups across LATAM.
+- Co-founded **Speezard**, a web3 incubator that supported nearly 50 startups in achieving product-market fit and validating their business theses. We built a community of 1,000+ members focused on web3, AI, and entrepreneurship.
+- Completed the **Le Wagon Data Science Bootcamp**, a 400+ hour program covering data analysis, machine learning, and deep learning using industry-standard libraries.
 
-- In the meantime, I co-founded Speezard a web3 incubator helping almost 50 startups to reach product market fit and validating their startup thesis, we together growth a +1000 members community focused on web3 technology, AI and Entrepreneurship.
-
-- Recently, finished Le Wagon Bootcamp on Data Science, this bootcamp was over +400 hours and covered the most common libraries to working with Deeplearning algorithms.
 
 <hr>
 
