@@ -1,10 +1,11 @@
 <h1>👋 Hi, I’m Ignacio Muñoz Gomeñuka </h1>
 <hr>
 
-<h2>🛠 Actually working as Data Analyst</h2>
+<h2>🛠 Actually working as Business Data Analyst</h2>
 
 
-- 🌱 I’m currently working with Python and exploring fintech
+- 🌱 My current stack is Python and Javascript
+- ⚔️ Ultimate set up: Cursor + Claude Code + MCPs 
 - 🌎 From Buenos Aires, Argentina.
 - 📫 How to reach me: ignaciogomenuka@gmail.com
   
