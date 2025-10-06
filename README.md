@@ -5,7 +5,6 @@
 
 
 - 🌱 My current stack is Python and Javascript
-- ⚔️ Ultimate set up: Cursor + Claude Code + MCPs 
 - 🌎 From Buenos Aires, Argentina.
 - 📫 How to reach me: ignaciogomenuka@gmail.com
   
