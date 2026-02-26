@@ -26,11 +26,11 @@ ignacio = {
 
 ## 💼 Experience
 
-**Havas Media Group** — *Data Analyst*
-> Automated reporting and generated insights using Power BI, SQL, and Python.
-
 **Matterscale Ventures** — *VC & Portfolio Analyst*
 > Competitor and portfolio analysis for startups across LATAM at a private equity venture capital firm.
+
+**Havas Media Group** — *Data Analyst*
+> Automated reporting and generated insights using Power BI, SQL, and Python.
 
 **Speezard** — *Co-founder* (Web3 Incubator)
 > Supported ~50 startups achieving product-market fit. Built a 1,000+ member community around Web3, AI & entrepreneurship.
@@ -49,26 +49,6 @@ ignacio = {
 </div>
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ignaciogomenuka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ignaciogomenuka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
 </div>
 
