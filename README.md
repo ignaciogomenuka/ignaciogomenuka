@@ -37,38 +37,3 @@ ignacio = {
 
 **Le Wagon** — *Data Science Bootcamp* (400+ hours)
 > Data analysis, machine learning, and deep learning using industry-standard libraries.
-
----
-
-## 🛠 Tools & Skills
-
-<div align="center">
-
-[![My Skills](https://skillicons.dev/icons?i=python,js,ts,react,nodejs,postgres,git,github,vscode,docker&perline=5&theme=dark)](https://skillicons.dev)
-
-</div>
-
-<div align="center">
-
-</div>
-
-## 📈 Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ignaciogomenuka&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-</div>
-
-## 📬 Contact
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/ignaciogomenuka@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ignaciogomenuka@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ignaciogomenuka)
-
-</div>
-
----
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,100:1a1a2e&height=120&section=footer)
